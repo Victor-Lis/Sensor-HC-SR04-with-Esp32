@@ -97,5 +97,11 @@ void loop() {
 }
 ```
 
+
+## Funcionando
+https://github.com/user-attachments/assets/6ae6b57e-6aff-4903-8408-a3dbdaa42768
+
+
+
 ## Autores
 - [@Victor-Lis](https://github.com/Victor-Lis)
